@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+    // hardcoded the matrice. This can be changed by running the commented part below
     float a[3][4] = {3,1,1,8,1,1,1,6,1,-1,3,8};
 /*
     for(int i = 0; i < 3; i++)
