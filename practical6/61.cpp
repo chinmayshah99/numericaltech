@@ -1,3 +1,4 @@
+// least square method
 #include <iostream>
 #include <cmath>
 using namespace std;
