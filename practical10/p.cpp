@@ -19,7 +19,8 @@ int main(int argc, char const *argv[])
         {
             calc *=((x-array[j][0])/(array[i][0]-array[j][0]));
         }
-        calc *=array[i][1];value+=calc;
+        calc *=array[i][1];
+        value+=calc;
     }
     cout<<" "<<value;return 0;
 }
