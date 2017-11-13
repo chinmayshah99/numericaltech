@@ -1,4 +1,4 @@
-// Backward interpolation
+// Forward interpolation
 
 #include <iostream>
 
